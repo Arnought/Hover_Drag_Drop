@@ -5,7 +5,6 @@ using UnityEngine;
 
 public class PlayerCamera : MonoBehaviour
 {
-    internal static object main;
     public Transform player;
     public float mouseSens = 2f;
     float cameraRot = 0;
